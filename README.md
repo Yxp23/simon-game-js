@@ -1,5 +1,7 @@
 # Simon Game - Web Implementation 🕹️
 
+[▶️ **Play Live Demo Here**](https://yxp23.github.io/simon-game-js/)
+
 ## 💡 Overview
 This is a web-based implementation of the classic electronic Simon memory game. The player must successfully repeat an increasingly complex pattern of colored buttons and sounds.
 
